@@ -13,7 +13,7 @@ end
     quantity.times do 
     @items << title
   end 
-
+@last_
 end 
   
   def apply_discount 
