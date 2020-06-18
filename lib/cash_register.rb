@@ -13,7 +13,7 @@ end
     quantity.times do 
     @items << title
   end 
-  def transaction
+  
 @last_transaction = (price * quantity)
 end 
   
